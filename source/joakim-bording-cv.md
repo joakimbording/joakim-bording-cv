@@ -1,8 +1,10 @@
 # Joakim Bording
 
-Å finne elegante løsninger på kompliserte oppgaver. De siste 15 årene har jeg laget digitale produkter og tjenester for store kjente organisasjoner og mange startups – som produktdesigner, frontend-utvikler og rådgiver. 
+Å finne elegante løsninger på kompliserte oppgaver er det jeg for. De siste 15 årene har jeg laget digitale produkter og tjenester for store kjente organisasjoner og startups – som produktdesigner, frontend-utvikler og rådgiver. 
 
-Jeg har en master innen Design bruk og interaksjon fra Universitetet i Oslo og har bred teknisk kompetanse. Jeg har bygget byrå og designet digitale produkter fra bunnen av sammen med noen av Norges flinkeste designere, utviklere og rådgivere. Jeg har vært konsulent, gründer, fagansvarlig, styreleder og daglig leder. Gått konk og vunnet priser. 
+Jeg har bygget byrå og designet digitale produkter fra bunnen av sammen med noen av Norges flinkeste designere, utviklere og rådgivere. Jeg har vært konsulent, gründer, fagansvarlig, styreleder og daglig leder. Gått konk og vunnet priser. 
+
+Jeg har en master innen Design bruk og interaksjon fra Universitetet i Oslo og har bred teknisk kompetanse og visuell formsans.
 
 ---
 
