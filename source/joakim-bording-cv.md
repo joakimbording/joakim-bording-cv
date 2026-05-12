@@ -1,6 +1,6 @@
 # Joakim Bording
- 
-Å finne elegante løsninger på kompliserte oppgaver er det jeg hele tiden jobber mot. De siste 15 årene har jeg laget digitale produkter og tjenester for store kjente organisasjoner og mange startups – som produktdesigner, frontend-utvikler og rådgiver. 
+
+Å finne elegante løsninger på kompliserte oppgaver. De siste 15 årene har jeg laget digitale produkter og tjenester for store kjente organisasjoner og mange startups – som produktdesigner, frontend-utvikler og rådgiver. 
 
 Jeg har en master innen Design bruk og interaksjon fra Universitetet i Oslo og har bred teknisk kompetanse. Jeg har bygget byrå og designet digitale produkter fra bunnen av sammen med noen av Norges flinkeste designere, utviklere og rådgivere. Jeg har vært konsulent, gründer, fagansvarlig, styreleder og daglig leder. Gått konk og vunnet priser. 
 
@@ -8,9 +8,9 @@ Jeg har en master innen Design bruk og interaksjon fra Universitetet i Oslo og h
 
 ## Kontakt
 
-**E-post:** joakim@bording.no
+**E-post:** [joakim@bording.no](mailto:joakim@bording.no)
 
-**Telefon:** +47 918 14 458
+**Telefon:** [+47 918 14 458](tel:+4791814458)
 
 **Hjemsted:** Oslo, Ammerud
 
@@ -161,29 +161,26 @@ Redesign av forside for Oslo Børs. Oppgaveprioritering og interaksjonsdesign.
 **Statskog** (2012)  
 Responsivt intranett. Customer carewords, webstrategi, grafisk design og protoyping.
  
-**Follow the Sound** (2012)  
-Masteroppgave. Designet og utviklet en prototype-app til iPhone som gav blinde mulighet til å gå ruter i nærområdet ved å følge etter en virtuelt plassert lyd.
- 
 ---
  
-## Undervisning og foredrag
+## Foredrag og undervisningsoppdrag
  
-**Yggdrasilkonferansen** - 2026
-*Lag veivisere som gjør jussen brukervennlig* En workshop om design og utforming av veivisere for å svare på juridiske spørsmål. Holdt workshoper sammen med Ragnhild Olin Amdam fra Direktoratet for byggkvalitet
+**Yggdrasilkonferansen** (2026)
+*Lag veivisere som gjør jussen brukervennlig.* En workshop om design og utforming av veivisere for å svare på juridiske spørsmål. Holdt workshoper sammen med Ragnhild Olin Amdam fra Direktoratet for byggkvalitet
 
-**Webdagene** – 2018  
+**Webdagene** (2018)
 *Hva synes du (egentlig)?* Foredrag om bruk av ledende spørsmål i brukertesting foran 1000 deltakere i Oslo Spektrum.
  
-**NTNU | IGM** – 2017  
-Deltidstudie i Interaksjonsdesign. Fagleder for et deltidsstudie på 30 studiepoeng innen interaksjonsdesign og brukervennlighet. Arbeidet innebærer administrasjon, forelesning, planlegging av pensum og sensur.
+**NTNU | IGM** (2017)
+*Deltidstudie i Interaksjonsdesign.* Fagleder for et deltidsstudie på 30 studiepoeng innen interaksjonsdesign og brukervennlighet. Arbeidet innebærer administrasjon, forelesning, planlegging av pensum og sensur.
  
-**UX-Camp Copenhagen** – 2016  
+**UX-Camp Copenhagen** (2016)
 *Universal design: Make one design that fits everyone.* Keynote foredrag under en UX konferanse i København.
  
-**Yggdrasilkonferansen** - 2015
-*Universell utforming FTW! Redesign av blindeforbundet.no* Et caseforedrag om arbeidet vi gjorde med redesign av blindeforbundet.no og tilhørende nettsider. Holdt foredraget sammen med Nikolai Krister Strandskogen.
+**Yggdrasilkonferansen** (2015)
+*Universell utforming FTW! Redesign av blindeforbundet.no.* Et caseforedrag om arbeidet vi gjorde med redesign av blindeforbundet.no og tilhørende nettsider. Holdt foredraget sammen med Nikolai Krister Strandskogen.
 
-**Netlife Research** – 2014 – 2017  
+**Netlife Research** (2014 – 2017)
 *Kurs i Universell utforming på nett* Holdt flere kurs i universell utforming av nettsider for kunder av Netlife Research. Alene, eller i samarbeid med andre.
  
 ---
@@ -194,5 +191,4 @@ Deltidstudie i Interaksjonsdesign. Fagleder for et deltidsstudie på 30 studiepo
 Jeg var styreleder i produktstudio jeg selv var med å starte. Jeg fortsatte som styremedlem etter 2021. 
 
 **Fearless Play** – Styremedlem og grunnlegger (2013 – 2017)  
-Frivillig organisasjon som organiserer leirer, festivaler og events for ungdom og voksne som har lyst til å prøve ekstremsport aktiviteter som rafting, paragliding, kiteboarding ol.  
-fearlessplay.no
+Frivillig organisasjon som organiserer leirer, festivaler og events for ungdom og voksne som har lyst til å prøve ekstremsport aktiviteter som rafting, paragliding, kiteboarding ol.

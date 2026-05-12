@@ -1,7 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import { marked } from 'marked';
-import CVSection from '@/components/CVSection';
+import Section from '@/components/Section';
 import styles from './page.module.scss';
 
 interface Section {
@@ -44,7 +44,7 @@ export default function Home() {
                 dangerouslySetInnerHTML={{ __html: intro }}
             />
             {sections.map((section) => (
-                <CVSection
+                <Section
                     key={section.title}
                     title={section.title}
                     html={section.html}

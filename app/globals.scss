@@ -26,8 +26,10 @@ body {
 a {
     color: inherit;
     text-decoration: underline;
-    text-underline-offset: 2px;
+    text-underline-offset: 4px;
+    text-decoration-thickness: 1px;
     text-decoration-color: $color-border;
+    transition: text-decoration-color 200ms ease-out;
 
     &:hover {
         text-decoration-color: $color-text;

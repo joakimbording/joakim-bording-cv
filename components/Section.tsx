@@ -1,11 +1,11 @@
-import styles from './CVSection.module.scss';
+import styles from './Section.module.scss';
 
-interface CVSectionProps {
+interface SectionProps {
     title: string;
     html: string;
 }
 
-export default function CVSection({ title, html }: CVSectionProps) {
+export default function Section({ title, html }: SectionProps) {
     return (
         <section className={styles.section}>
             <h2 className={styles.title}>{title}</h2>
