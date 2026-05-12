@@ -1,0 +1,72 @@
+@use '../styles/fonts';
+@use '../styles/vars' as *;
+@use '../styles/type' as *;
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: $font-size-base;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+    font-family: "Heldane", Georgia, serif;
+    color: $color-text;
+    background: $color-bg;
+    line-height: $line-height-body;
+}
+
+a {
+    color: inherit;
+    text-decoration: underline;
+    text-underline-offset: 2px;
+    text-decoration-color: $color-border;
+
+    &:hover {
+        text-decoration-color: $color-text;
+    }
+}
+
+p {
+    margin-bottom: 0.75em;
+
+    &:last-child {
+        margin-bottom: 0;
+    }
+}
+
+strong {
+    font-weight: bold;
+}
+
+em {
+    font-style: italic;
+}
+
+// Print styles
+@media print {
+    html {
+        font-size: $font-size-print;
+    }
+
+    body {
+        background: white;
+        color: black;
+    }
+
+    @page {
+        margin: 1.5cm 2cm;
+    }
+
+    a {
+        text-decoration: none;
+        color: inherit;
+    }
+}

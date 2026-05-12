@@ -1,0 +1,82 @@
+@use '../styles/vars' as *;
+@use '../styles/type' as *;
+
+.section {
+    display: grid;
+    grid-template-columns: $sidebar-width 1fr;
+    gap: $gutter-large;
+    padding: $gutter-large 0;
+    border-top: 1px solid $color-border;
+
+    @media (max-width: #{$bp-md}) {
+        grid-template-columns: 1fr;
+        gap: $gutter;
+    }
+}
+
+.title {
+    font-size: $font-size-h2;
+    font-weight: normal;
+    color: $color-muted;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    line-height: $line-height-tight;
+    padding-top: 0.2em;
+
+    @media (min-width: #{$bp-md}) {
+        position: sticky;
+        top: $page-margin;
+        align-self: start;
+    }
+}
+
+.content {
+    font-size: 1rem;
+    line-height: $line-height-body;
+
+    :global(p) {
+        margin-bottom: 1.1em;
+
+        &:last-child {
+            margin-bottom: 0;
+        }
+    }
+
+    :global(strong) {
+        font-weight: bold;
+    }
+
+    :global(em) {
+        font-style: italic;
+    }
+
+    :global(a) {
+        color: $color-muted;
+        font-size: 0.875em;
+    }
+
+    :global(ul),
+    :global(ol) {
+        padding-left: 1.25em;
+        margin-bottom: 1em;
+    }
+
+    :global(li) {
+        margin-bottom: 0.25em;
+    }
+
+    :global(hr) {
+        display: none;
+    }
+}
+
+@media print {
+    .section {
+        page-break-inside: avoid;
+        break-inside: avoid;
+    }
+
+    .title {
+        position: static;
+    }
+}
