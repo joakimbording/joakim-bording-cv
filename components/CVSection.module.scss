@@ -6,7 +6,6 @@
     grid-template-columns: $sidebar-width 1fr;
     gap: $gutter-large;
     padding: $gutter-large 0;
-    border-top: 1px solid $color-border;
 
     @media (max-width: #{$bp-md}) {
         grid-template-columns: 1fr;
@@ -16,10 +15,8 @@
 
 .title {
     font-size: $font-size-h2;
-    font-weight: normal;
-    color: $color-muted;
+    font-weight: bold;
     letter-spacing: 0.05em;
-    text-transform: uppercase;
     line-height: $line-height-tight;
     padding-top: 0.2em;
 
@@ -51,8 +48,7 @@
     }
 
     :global(a) {
-        color: $color-muted;
-        font-size: 0.875em;
+        color: $color-text;
     }
 
     :global(ul),
