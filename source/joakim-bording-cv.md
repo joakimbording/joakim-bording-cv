@@ -58,7 +58,7 @@ Vi lagde ny visuell identitet for forbundet og redesignet nettsiden. Jeg hadde a
 
 **DIBK** (2024 - 2026)  
 Design og utvikling av et CMS for å opprette, endre og vedlikeholde deres veivisere bygget på Losen arkitekturen. Løsningen er publisert som Open Source. Firebase, Typescript.   
-[github.com/DirektoratetForByggkvalitet/veiviserbygger](https://github.com/DirektoratetForByggkvalitet/veiviserbygger)
+[github.com](https://github.com/DirektoratetForByggkvalitet/veiviserbygger)
 
 **Sunday Power** (2024)  
 Figma-design av designsystem, layoutsystem og navigasjonsstruktur for deres flåtestyringssytem for solcelleanlegg.
