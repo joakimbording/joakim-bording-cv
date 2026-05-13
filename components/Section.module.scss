@@ -53,12 +53,17 @@
 
     :global(ul),
     :global(ol) {
-        padding-left: 1.25em;
-        margin-bottom: 1em;
+        padding-left: 0;
+        margin-bottom: 0;
     }
 
     :global(li) {
-        margin-bottom: 0.25em;
+        margin-bottom: 1.1em;
+        list-style: none;
+
+        &:last-child {
+            margin-bottom: 0;
+        }
     }
 
     :global(hr) {
