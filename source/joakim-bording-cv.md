@@ -30,14 +30,17 @@ Jeg har en master innen Design bruk og interaksjon fra Universitetet i Oslo og h
 ---
  
 ## Utdanning
- 
-- **University of Oslo (UiO)** – *Master, Informatics: design, use and interaction* (2010 – 2012)
-- **University of Oslo (UiO)** – *Bachelor, IT – Language, Logic and Psychology* (2007 – 2010)
- 
+
+- **Universitetet i Oslo (UiO)** – _Master, Informatikk: design, bruk og interaksjon_ (2010 – 2012)
+- **Universitetet i Oslo (UiO)** – _Bachelor, IT – Språk, logikk og psykologi_ (2007 – 2010)
+- **Oslo Fotokunstskole** – _One year study in photography, art and composition_ (2004 – 2005)
+
 ---
  
 ## Kunder og prosjekter
 
+- **Flowcase** (2026 - )  
+  Videreutvikler designsystemet, redesigner sentrale deler av produktet og bygger kontekst og skills for AI-utvikling. Flowcase (tidligere CV Partner) er en internasjonal SaaS-plattform for CV-, prosjekt- og kompetansedata. [flowcase.com](https://www.flowcase.com/)
 - **Partnerstudio** (2025 - 2026)  
 Design og utvikling av et nytt internverktøy for søk og rapportering på kampanjetall for innholdsmarkedsføring hos Schibsted. Utviklet i NextJS, Typescript, Supabase. [partnerstudio.no/](https://www.partnerstudio.no/)
 - **Støttegruppa 25. juni** (2025)  
